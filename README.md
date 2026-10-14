@@ -1,3 +1,12 @@
+
+![FP6 Poster Preview](FP6_Poster.png)
+
+[View Our Full Poster (PDF)](FP6_Poster.pdf)
+
+**Hugging Face Demo:** https://huggingface.co/spaces/dku-comsci-econ206-2026/ai-ticket-allocation
+
+---
+
 # AI, Rent-Seeking, and Ticket Allocation:
 ## Mechanism Design under Asymmetric Participation Costs
 
