@@ -1,7 +1,8 @@
+![FP6 Final Poster Preview](FP6_poster.png)
 
-![FP6 Poster Preview](FP6_Poster.png)
+[View Our Final Poster (PDF)](FP6_poster.pdf)
 
-[View Our Full Poster (PDF)](FP6_Poster.pdf)
+[Download Editable Poster (PPTX)](FP6_poster.pptx)
 
 **Hugging Face Demo:** https://huggingface.co/spaces/dku-comsci-econ206-2026/ai-ticket-allocation
 
